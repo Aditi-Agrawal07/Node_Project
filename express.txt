@@ -1,0 +1,17 @@
+Steps to creating API
+
+1. Install and require http in index.js the entrypoint
+2. Require App and then creating server for this app 
+3. Give port and start the server on this port
+
+4. In app.js require express and use this for our app
+
+CONNECTING WITH DATABASE
+
+1.Create a utility file 
+2.Install and require mongoose
+
+CREATING ROUTES
+1.require router from express
+2.use this router
+3.define the controller
